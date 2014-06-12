@@ -1,0 +1,8 @@
+Twisted==14.0.0
+astroid==1.1.1
+autobahn==0.8.9
+logilab-common==0.61.0
+pylint==1.2.1
+six==1.7.2
+wsgiref==0.1.2
+zope.interface==4.1.1
